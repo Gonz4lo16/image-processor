@@ -22,7 +22,7 @@ sudo apt update
 sudo apt install terraform -y
 
 
-Instalación de AWS CLI
+##Instalación de AWS CLI
 
 Instala AWS CLI con:
 
@@ -32,7 +32,7 @@ unzip awscliv2.zip
 
 sudo ./aws/install
 
-Configuración de AWS SSO
+##Configuración de AWS SSO
 
 aws configure sso
 
