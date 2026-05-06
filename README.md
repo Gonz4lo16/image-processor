@@ -44,6 +44,12 @@ Inicializa Terraform:
 
 terraform init
 
+Creación de entornos:
+
+terraform workspace new dev
+terraform workspace new qa
+terraform workspace new prod
+
 Revisa los cambios:
 
 terraform plan
